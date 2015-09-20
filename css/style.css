@@ -36,7 +36,7 @@ body{
 	border-radius: 0;
 }
 .navbar-header a.navbar-brand {
-	color: #00BFF3;
+	color: #FFFFFF;
 	font-family: 'Jockey One', sans-serif;
 	font-size: 3em;
 	font-weight: 100;
@@ -169,16 +169,20 @@ span.glyphicon.glyphicon-search.edit {
 }
 /*--our-features--*/
 .bgi h3 {
-	color: #0B0354;
+	color: #000013;
 	font-size: 3em;
 	font-family: 'Jockey One', sans-serif;
 	margin-bottom: 0.5em;
+	text-align: left;
+	margin-left: 3%;
 }
 .bgi p {
 	font-weight: 300;
 	color: #FFFFFF;
 	font-size: 1.3em;
 	margin-bottom: 2em;
+	text-align: left;
+	margin-left: 3%;
 }
 button.btn.btn-warning.but1 {
 	padding: 10px 22px;
